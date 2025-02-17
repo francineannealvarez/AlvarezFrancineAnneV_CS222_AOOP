@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\bin\Debug\net8.0\FinalTotal.exe
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\bin\Debug\net8.0\FinalTotal.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\bin\Debug\net8.0\FinalTotal.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\bin\Debug\net8.0\FinalTotal.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\bin\Debug\net8.0\FinalTotal.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\refint\FinalTotal.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\FinalTotal.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\FinalTotal\obj\Debug\net8.0\ref\FinalTotal.dll

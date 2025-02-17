@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\bin\Debug\net8.0\SquaPattern.exe
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\bin\Debug\net8.0\SquaPattern.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\bin\Debug\net8.0\SquaPattern.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\bin\Debug\net8.0\SquaPattern.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\bin\Debug\net8.0\SquaPattern.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\refint\SquaPattern.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\SquaPattern.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\SquaPattern\obj\Debug\net8.0\ref\SquaPattern.dll
