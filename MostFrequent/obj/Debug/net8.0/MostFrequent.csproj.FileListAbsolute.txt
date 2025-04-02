@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\bin\Debug\net8.0\MostFrequent.exe
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\bin\Debug\net8.0\MostFrequent.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\bin\Debug\net8.0\MostFrequent.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\bin\Debug\net8.0\MostFrequent.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\bin\Debug\net8.0\MostFrequent.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.sourcelink.json
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\refint\MostFrequent.dll
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.pdb
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\MostFrequent.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\AlvarezFrancineAnneV_CS222_AOOP\MostFrequent\obj\Debug\net8.0\ref\MostFrequent.dll

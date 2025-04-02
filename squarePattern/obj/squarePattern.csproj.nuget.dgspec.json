@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\squarePattern\\squarePattern.csproj": {}
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\SquarePattern\\squarePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\squarePattern\\squarePattern.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\SquarePattern\\squarePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\squarePattern\\squarePattern.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\SquarePattern\\squarePattern.csproj",
         "projectName": "squarePattern",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\squarePattern\\squarePattern.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\SquarePattern\\squarePattern.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\squarePattern\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\AlvarezFrancineAnneV_CS222_AOOP\\SquarePattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

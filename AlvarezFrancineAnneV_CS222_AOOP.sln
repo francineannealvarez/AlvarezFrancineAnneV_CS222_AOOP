@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -15,6 +15,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaPattern", "SquaPattern\SquaPattern.csproj", "{DDD95B3B-2C42-45E4-8236-9025B8A76FAD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squarePattern", "squarePattern\squarePattern.csproj", "{63B754FE-0643-10D5-FD99-6020741B0D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumber", "SumOfNumber\SumOfNumber.csproj", "{70D82636-B1FA-412A-A79F-5825C0829590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequent", "MostFrequent\MostFrequent.csproj", "{1A73B4D6-85C5-4F95-8335-33784E300B0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +54,14 @@ Global
 		{63B754FE-0643-10D5-FD99-6020741B0D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63B754FE-0643-10D5-FD99-6020741B0D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63B754FE-0643-10D5-FD99-6020741B0D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D82636-B1FA-412A-A79F-5825C0829590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D82636-B1FA-412A-A79F-5825C0829590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D82636-B1FA-412A-A79F-5825C0829590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D82636-B1FA-412A-A79F-5825C0829590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A73B4D6-85C5-4F95-8335-33784E300B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A73B4D6-85C5-4F95-8335-33784E300B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A73B4D6-85C5-4F95-8335-33784E300B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A73B4D6-85C5-4F95-8335-33784E300B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
